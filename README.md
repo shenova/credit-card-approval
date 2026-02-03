@@ -47,7 +47,7 @@ Additional notebooks include practice and exploratory files used during developm
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/shenova/COGS-118A-Project.git
+git clone https://github.com/shenova/credit-card-approval.git
 cd credit-card-approval
 ```
 
